@@ -1,0 +1,24 @@
+{
+  "name": "CString",
+  "version": "1.0.0",
+  "description": "Strings without dynamic memory allocations",
+  "keywords": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/episource/CString.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Philipp Serr",
+      "email": "episource@gmx.net",
+      "url": ""
+    }
+  ],
+  "license": "Apache License",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
